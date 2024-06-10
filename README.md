@@ -3,11 +3,16 @@ In short, I have developed a Python script with a built-in graphical interface t
 
 In this case, the graphical interface is in Spanish, but I will work on adding new languages ​​to make it accessible to a wider audience.
 
-## Usage/Examples
+## Examples  
+![image](https://github.com/ikkxeer/Wordpress-Verificator/assets/137718457/7bbdcd13-0058-47fa-9dbc-7d0802619daf)
+
+## Usage
 ```python
 python main.py
 ```
 - Once the program is executed, we only have to use the graphical interface to put it into use.
+
+
 
 ## Contributing
 Contributions to enhance the script or address issues are welcome. Please open a GitHub issue or submit a pull request.
