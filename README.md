@@ -1,5 +1,6 @@
 # Wordpress Verificator
 In short, I have developed a Python script with a built-in graphical interface that, when entering an internet link, verifies if the web page is built with Wordpress and gives a direct response.
+
 In this case, the graphical interface is in Spanish, but I will work on adding new languages ​​to make it accessible to a wider audience.
 
 ## Usage/Examples
